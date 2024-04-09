@@ -1,4 +1,4 @@
-# Eclipse Signalling Engineering Toolbox Model
+# Eclipse Signalling Engineering Toolbox Model 
 
 This repository contains the source code for the data model subcomponent of the 
 Eclipse Signalling Engineering Toolbox. The model is an EMF model, based on the
